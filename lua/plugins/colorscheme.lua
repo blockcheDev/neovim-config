@@ -1,10 +1,10 @@
 return {
-  { "morhetz/gruvbox" },
+  { "folke/tokyonight.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "tokyonight-moon",
     },
   },
 }
